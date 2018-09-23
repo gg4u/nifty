@@ -1,3 +1,55 @@
-Knowledge Maps for Learning and Discovery
+Atlas Log
 
-## Scope: ChainMap training material
+
+Test 0
+
+# Roadmap definition  [August 2018]
+
+- project writing
+-- definition of object, action, results
+
+- project management
+-- production of deliverables and documentation
+
+
+# Discovery engine [August 2018]
+- creation of automation scripts to generate maps out of selected topics
+-- test 4 algorithms to extract knowledge networks
+-- exporting files in batch based on parameters
+-- merger of networks into a unique map
+-- filters to discard selected maps in merger
+-- visualisation of results
+
+- test manual update of knowledge base, with new entities whose article exist in English Wikipedia (syncing UX)
+
+- creation of scripts to format knowledge maps as per api/share, with manually selected topics
+- creation of scripts to format custom knowledge maps as per api/share, with manually selected topics AND links (from tab space / excel sheet)
+
+- creation of API/Atlas to expose collection of knowledge maps
+- creation of API/news to expose news associated to a topic
+
+
+# User Experience for web platform [September 2018]
+
+- creation of Atlas front-end to expose collection of knowledge maps
+- definition of UX and UI of Atlas, complying with material design principles
+
+- definition of UX to display custom content associated to a map
+- definition of UX to display custom content associated to a topic
+
+- integration of news content for selected topic
+- integration of video content for current map
+
+- improving readability of maps
+-- responsive label size on zooming ratio
+-- responsive label display on zooming ratio
+-- updating CSS3 sheets
+
+- improving interactions with maps
+-- adjusting layouting of maps to reduce visual drag (background layout adjusting) 
+
+- performance tests for responsive layout 
+-- improving events handling ( async visual adjustment of graph elements)
+-- reduction of layout invalidation in DOM tree 
+
+
