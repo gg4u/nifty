@@ -41,9 +41,13 @@ Test 0
 - integration of video content for current map
 
 - improving readability of maps
--- responsive label size on zooming ratio
--- responsive label display on zooming ratio
--- updating CSS3 sheets
+-- responsive formatting of label size on zooming ratio
+-- responsive formatting of label display on zooming ratio
+-- adjusting appearance of image elements on current node
+-- adjusting appearance of label element on current node
+-- introducing color background for labels
+-- introducing highlight on neighborhood of current parent
+-- updating rendering logic in function of minimising layout invalidation (CSS3 sheets, SVG)
 
 - improving interactions with maps
 -- adjusting layouting of maps to reduce visual drag (background layout adjusting) 
