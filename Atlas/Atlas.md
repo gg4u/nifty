@@ -35,8 +35,7 @@ Test 0
 Example of a Map, Format Excel
 
 From_node | To_Node | Weight (Scale Anchoring, 0.1 - 1.0)
-_________   _______   ________________________
-
+---------   -------   -----------------------------------
 Science | Karl Popper | 0.4
 Karl Popper | Democracy | 0.6
 Democracy | Social Influence | 0.8
