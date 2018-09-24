@@ -35,13 +35,8 @@ Test 0
 Example of a Map, Format Excel
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 From_node | To_Node | Weight (Scale Anchoring, 0.1 - 1.0)
----------   -------   -----------------------------------
+--------- | ------- | -----------------------------------
 Science | Karl Popper | 0.4
 Karl Popper | Democracy | 0.6
 Democracy | Social Influence | 0.8
