@@ -3,6 +3,7 @@ Atlas Log
 
 Test 0
 
+
 # Roadmap definition  [August 2018]
 
 - project writing
@@ -13,6 +14,9 @@ Test 0
 
 
 # Discovery engine [August 2018]
+
+## scripting to import maps
+
 - creation of automation scripts to generate maps out of selected topics
 -- test 4 algorithms to extract knowledge networks
 -- exporting files in batch based on parameters
@@ -25,20 +29,33 @@ Test 0
 - creation of scripts to format knowledge maps as per api/share, with manually selected topics
 - creation of scripts to format custom knowledge maps as per api/share, with manually selected topics AND links (from tab space / excel sheet)
 
+## extending knowledge discovery platforms APIs 
+
 - creation of API/Atlas to expose collection of knowledge maps
 - creation of API/news to expose news associated to a topic
 
 
 # User Experience for web platform [September 2018]
 
-- creation of Atlas front-end to expose collection of knowledge maps (pinterest look-and-feel version)
-- definition of UX and UI of Atlas, complying with material design principles
+## designing UX and interaction 
 
+- creation of Atlas front-end to expose collection of knowledge maps (pinterest look-and-feel version)
 - definition of UX to display custom content associated to a map
 - definition of UX to display custom content associated to a topic
 
-- integration of news content for selected topic
+## extending knowledge discovery maps logic to support external content
+- integration of news content for selected topic 
 - integration of video content for current map
+
+## designing mockup layout
+- definition of UI of Atlas, complying with material design principles
+
+## extending knowledge discovery platforms layout
+- adding contextual menu for maps
+- adapting scrolling and appearence of menu for mobile and web
+- adding news content UI for selected topic
+- adding video content UI for current map
+- mockup for additional third party content for current topic
 
 - improving readability of maps
 -- responsive formatting of label size on zooming ratio
