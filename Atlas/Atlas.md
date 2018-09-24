@@ -1,15 +1,18 @@
-Atlas Log
+# Atlas Log
 
+Atlas log for **Test 0** 
+Creation of demo to present knowledge maps for learning and discovery created / edited by users.
 
-Test 0
+Maps are collected in the Nifty.Works' Atlas [1].
 
-
+[1] Nifty.works platform dedicated to factual knowledge, as per September 2018.
+ 
 # Roadmap definition  [August 2018]
 
-- project writing
+- [x] project writing
   - definition of object, action, results
 
-- project management
+- [x] project management
   - production of deliverables and documentation
 
 
@@ -17,18 +20,18 @@ Test 0
 
 ## Scripting to import and analyse maps
 
-- creation of automation scripts to generate maps out of selected topics
+- [x] creation of automation scripts to generate maps out of selected topics
   - test 4 algorithms to extract knowledge networks
   - exporting files in batch based on parameters
   - merger of networks into a unique map 
   - filters to discard selected maps in merger
   - visualisation of results
 
-- test manual update of knowledge base, with new entities whose article exist in English Wikipedia (syncing UX)
+- [x] test manual update of knowledge base, with new entities whose article exist in English Wikipedia (syncing UX)
 
-- creation of scripts to format knowledge maps as per api/share, with *manually selected topics*
-- creation of scripts to format custom knowledge maps as per api/share, *with manually selected topics AND links* from tab space format
-- creation of scripts to format custom knowledge maps as per api/share, *with manually selected topics AND links* from excel sheet
+- [ ] creation of scripts to format knowledge maps as per api/share, with *manually selected topics*
+- [ ] creation of scripts to format custom knowledge maps as per api/share, *with manually selected topics AND links* from tab space format
+- [x]creation of scripts to format custom knowledge maps as per api/share, *with manually selected topics AND links* from excel sheet 
 
 ### Examples for formatting manually created maps
 
@@ -68,33 +71,34 @@ Science
 
 ## Extending knowledge discovery platforms APIs 
 
-- creation of API/Atlas to expose collection of knowledge maps
-- creation of API/news to expose news associated to a topic
+- [x] creation of API/Atlas to expose collection of knowledge maps
+- [x] creation of API/news to expose news associated to a topic
 
 
 # User Experience for web platform [September 2018]
 
 ## Designing UX and interaction 
 
-- creation of Atlas front-end to expose collection of knowledge maps (pinterest look-and-feel version)
-- definition of UX to display custom content associated to a map
-- definition of UX to display custom content associated to a topic
+- [x] creation of Atlas front-end to expose collection of knowledge maps (pinterest look-and-feel version)
+- [x] definition of UX to display custom content associated to a map
+- [x] definition of UX to display custom content associated to a topic
 
 ## Extending knowledge discovery maps logic to support external content
-- integration of news content for selected topic 
-- integration of video content for current map
+- [x] integration of news content for selected topic 
+- [x] integration of video content for current map
+- [ ] integration of custom content for selected topic 
 
 ## Designing mockup layout
-- definition of UI of Atlas, complying with material design principles
+- [x] definition of UI of Atlas, complying with material design principles
 
 ## Extending knowledge discovery platforms layout
-- adding contextual menu for maps
-- adapting scrolling and appearence of menu for mobile and web
-- adding news content UI for selected topic
-- adding video content UI for current map
-- mockup for additional third party content for current topic
+- [x] adding contextual menu for maps
+- [x] adapting scrolling and appearence of menu for mobile and web
+- [x] adding news content UI for selected topic
+- [x] adding video content UI for current map
+- [x] mockup for additional third party content for current topic
 
-- improving readability of maps
+- [x] improving readability of maps
   - responsive formatting of label size on zooming ratio
   - responsive formatting of label display on zooming ratio
   - adjusting appearance of image elements on current node
@@ -103,10 +107,10 @@ Science
   - introducing highlight on neighborhood of current parent
   - updating rendering logic in function of minimising layout invalidation (CSS3 sheets, SVG)
 
-- improving interactions with maps
+- [x] improving interactions with maps
   - adjusting layouting of maps to reduce visual drag (background layout adjusting) 
 
-- performance tests for responsive layout 
+- [x] performance tests for responsive layout 
   - improving events handling ( async visual adjustment of graph elements)
   - reduction of layout invalidation in DOM tree 
 
