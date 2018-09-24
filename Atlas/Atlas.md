@@ -5,7 +5,7 @@ Creation of demo to present knowledge maps for learning and discovery created / 
 
 Maps are collected in the Nifty.Works' Atlas [1].
 
-[1] Nifty.works platform dedicated to factual knowledge, as per September 2018.
+[1] Nifty.works platform dedicated to factual knowledge, as per August 2018.
  
 # Roadmap definition  [August 2018]
 
