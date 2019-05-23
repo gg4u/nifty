@@ -5,7 +5,7 @@ Nifty.works
 Nifty is a full-stack application to visualize, edit, share knowledge maps over the web.
 
 Example:
-http://nifty.works/about/4xJWNMLgg2aL16y9/dna
+http://nifty.works/atlas-human-knowledge
 
 It comes with web API to query:
 - context of entity
